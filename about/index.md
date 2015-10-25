@@ -8,6 +8,7 @@ image:
 comments: false
 modified: 2015-10-25
 ---
+
 Tim has always been a very self-motivated individual with a strong passion for technology. People who know him would describe him as a leader that has the ability to bring different ideas and approaches to solving interesting problems. These ideas have matured through his experiences with web, software, and business development. Over the years he has developed an even stronger passion for security and how technologies can be used to help increase efficiency within organizations and improve security everywhere.
 
 Currently, Tim is currently the Chief Technology Officer of a Software Solutions company located in Northern Virginia and has received a number of awards and recognitions for his accomplishments in the field including being recognized as a Modern Day Technology Leader at the 2009 Black Engineer of the Year Awards conference and being inducted as a VIP Member of Cambridge Who’s Who of Executives, Professionals, and Entrepreneurs.
