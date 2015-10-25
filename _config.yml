@@ -11,7 +11,7 @@ url: //timtutt.github.io
 owner:
   name:           Tim Tutt
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Developer, Hacker, Entrepreneur"
   email:          tim@timtutt.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:
 
 # Background image to be tiled on all pages
 background: 
