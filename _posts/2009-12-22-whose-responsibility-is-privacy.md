@@ -21,9 +21,6 @@ tags:
   - social networking
   - Users
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/12/22/whose-responsibility-is-privacy/&text=Whose+Responsibility+Is+Privacy%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 The one thing that Facebook has consistently pissed users off about over the years is Privacy. The Electronic Privacy Information Center (EPIC) filed a 29-page <a title="complaint" href="http://epic.org/privacy/inrefacebook/EPIC-FacebookComplaint.pdf" target="_blank">complaint</a> with the Federal Trade Commission (FTC), claiming that Facebook mislead its users with the recent updates to privacy. The complaint pretty much says that the changes are confusing to users so instead of keeping their information safe users end up losing jobs, being embarrassed etc&#8230;  While the social media giant has made some tremendous screw ups in the past in the realm of privacy, I think it&#8217;s about time we cut Facebook some slack (just a little though&#8230;)
 
@@ -49,6 +46,3 @@ The fact of the matter is, the responsibility of personal privacy resides with t
 
 I am not writing this because I firmly agree with all of Facebook&#8217;s privacy policies (or their others for that matter), nor do I work for Facebook, or support it 100%. I&#8217;m writing this because users need to start taking responsibility for the privacy of their own information on the internet. You can expect a bank not to release your current balance to public sources, or a hospital to not release your medical records, but when you post information on a social networking website that has specific terms and agreements about what can and cannot be done with the information you post, and how you control it, the responsibility lies with you.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/12/22/whose-responsibility-is-privacy/&text=Whose+Responsibility+Is+Privacy%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

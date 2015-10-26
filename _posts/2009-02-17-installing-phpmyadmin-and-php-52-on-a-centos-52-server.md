@@ -18,9 +18,6 @@ tags:
   - phpmyadmin 3.1.2
   - yum
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/02/17/installing-phpmyadmin-and-php-52-on-a-centos-52-server/&text=Installing+phpmyadmin+and+PHP+5.2.%2A+on+a+Centos+5.2+Server+%28updated%29" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 So I spent the better part of last night (12-3:30am) trying to figure out just exactly how to get phpmyadmin installed on my Centos 5.2 Server. Now, I&#8217;m no dummy when it comes to linux, package management etc&#8230; But this was a task which apparently many other people have had trouble with. I finally gave up on it and went to bed, woke up this morning and went back to it&#8230; At which point I actually figured everything out and now have PHP 5.2.8 installed working with phpmyadmin 3.1.2 (which to day, all the most recent stuff) using mysql-server 5.1.31.
 
@@ -72,6 +69,3 @@ So here&#8217;s how I did it: Apparently the repositories that Centos 5.2 uses b
 
 <span style="color: #ff00ff;"><span style="color: #ff0000;"><span style="color: #000000;"><br /> </span></span></span>
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/02/17/installing-phpmyadmin-and-php-52-on-a-centos-52-server/&text=Installing+phpmyadmin+and+PHP+5.2.%2A+on+a+Centos+5.2+Server+%28updated%29" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

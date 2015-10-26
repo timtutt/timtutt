@@ -18,9 +18,6 @@ categories:
   - Programming
   - Software Development
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2014/07/17/automate-everything/&text=Automate+Everything" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 I had an interesting conversation with my mother earlier today. We were discussing a previous purchase of mine from Redbox and she commented on how Redbox and Netflix put [Blockbuster][1] out of business.  This eventually lead to a discussion in which I commented on how the world needs more of this type of automation.
 
@@ -32,8 +29,5 @@ On the second &#8211; &#8220;Technology does not always work&#8221; &#8211; I&#8
 
 I&#8217;ll close with this &#8211; *If man-kind wants to truly advance, we should automate everything we possibly can and use human brain power on higher order problems.  *To that end I say &#8211; ***automate everything.***
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2014/07/17/automate-everything/&text=Automate+Everything" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://en.wikipedia.org/wiki/Blockbuster_LLC

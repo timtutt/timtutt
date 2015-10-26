@@ -21,9 +21,6 @@ tags:
   - UN
   - united nations
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/02/08/can-policy-and-power-be-mutually-exclusive/&text=Can+Policy+and+Power+Be+Mutually+Exclusive%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 Two nights ago while snowed in, one of my roommates and I got into one of those interesting political discussions that you always seem to have while in college.  It started off as a simple enough debate about whether or not capitalism is fair, and if not what type of economic system would work better.  As is the case with every political discussion, this did not end with just the discussion on economic systems. At some point we found ourselves discussing the United Nations and its authority to enforce any agreements made among the nations involved.  My roommate made an interesting point saying that while the UN may have authority they have no real power.  The UN itself does not have a body that it can use to enforce these policies, as it requires the participation of members of the UN to actually enforce.  Additionally, these members have the option to elect not to participate in enforcing certain policies.  Without the participation of the major members, the UN virtually has now power. The question then becomes can you have the authority to create policy without the power to enforce it?
 
@@ -47,6 +44,3 @@ This conversation can be taken somewhat literally, so I want to be clear on a fe
 
 I&#8217;m interested to hear your thoughts on power and policy. Let me know what you think.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/02/08/can-policy-and-power-be-mutually-exclusive/&text=Can+Policy+and+Power+Be+Mutually+Exclusive%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

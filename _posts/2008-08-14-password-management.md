@@ -8,9 +8,6 @@ categories:
 tags:
   - cookie
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2008/08/14/password-management/&text=Password+Management" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 I was talking to my co-worker the other day and she was telling me about this &#8220;amazing&#8221; tool she found that manages your passwords, and all you have to do is remember one. I immediately knew what she was referring to and said that had been out for a while and that just about all browsers had that capability&#8230; I realized today that I spoke too soon. What I should have said was just about all *decent* browsers have that capability.
 
@@ -28,9 +25,6 @@ One other method of authentication on websites that I have yet to mention is som
 
 So that&#8217;s about all I have on password management&#8230; Hope you all enjoyed this edition of Tech Ed &#8211; I&#8217;ve gotta get a better tag line.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2008/08/14/password-management/&text=Password+Management" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://www.mozilla.com/en-US/firefox/
  [2]: http://www.openid.net

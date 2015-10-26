@@ -18,9 +18,6 @@ tags:
   - propaganda
   - wikileaks
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2011/04/28/anonymous/&text=Anonymous" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 I&#8217;m going to start this one off by saying that I know I am setting myself up here for a full onslaught of attacks, but there are some things that cannot be left alone. That being said, please go watch this [video][1] before reading the remainder of this article.
 
@@ -38,8 +35,5 @@ Why did I feel the need to talk about this tonight? It is no secret that support
 
 That&#8217;s my venting for the evening. Bring on the attacks.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2011/04/28/anonymous/&text=Anonymous" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://www.youtube.com/watch?v=wEV2CMfhCeo&feature=related

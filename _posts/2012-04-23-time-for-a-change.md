@@ -10,9 +10,6 @@ wpsd_autopost:
 categories:
   - Uncategorized
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/04/23/time-for-a-change/&text=Time+For+A+Change" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 So as you have undoubtedly already noticed, the site has gone through a major facelift. It took me all of 5 minutes to make the decision when I started searching for new themes. Ran across this one over at <a href="http://www.nullin.com/hemingwayex/" target="_blank">NULL.in</a> and thought it was pretty amazing. Quick install, and boom I&#8217;m done. I think I&#8217;ll stick with this one for a bit. Not the only technical change I&#8217;ll be making, but more on that later.
 
@@ -22,6 +19,3 @@ For now, enjoy the new theme. Re-read some old stuff, and be on the look out for
 
 &nbsp;
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/04/23/time-for-a-change/&text=Time+For+A+Change" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

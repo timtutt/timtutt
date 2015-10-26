@@ -14,9 +14,6 @@ tags:
   - search engine redirect
   - virus
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/02/26/that-nasty-firefox-extension/&text=That+Nasty+Firefox+Extension" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 So there has been a lot of noise on the interwebs about this new &#8220;malware&#8221;/&#8221;virus&#8221;/&#8221;worm&#8221; that apparently no anti-virus software has been able to detect or remove recently. Last week I was infected with this nasty little thing and it was really starting to piss me off. I had been searching madly across the Internet (using cached search pages, a little work around this bug) to try and find the solution to this little issue. I also ran every piece of malware and anti-virus software I have&#8230; which by the way is a lot.
 
@@ -43,6 +40,3 @@ I love the Internet, but I hate stuff like this out there. Anyways, Removal inst
 
 And if you&#8217;re anything like me, look at the code for yourself and see exactly what it was doing&#8230; While nasty, its actually a pretty neat trick. Useful if you want to say&#8230; spy on someone using your internets. Oh, Change passwords if you&#8217;ve used any while being infected. Can never be too safe.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/02/26/that-nasty-firefox-extension/&text=That+Nasty+Firefox+Extension" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

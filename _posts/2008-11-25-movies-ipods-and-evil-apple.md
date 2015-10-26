@@ -6,9 +6,6 @@ permalink: /2008/11/25/movies-ipods-and-evil-apple/
 categories:
   - Tech Ed
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2008/11/25/movies-ipods-and-evil-apple/&text=Movies%2C+iPods%2C+and+Evil+Apple" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 So I recently ran into a bit of a technology issue in regards to video encoding which initially looked like it was heading towards a solution which required $$$&#8230; I don&#8217;t like spending money on technology issues.  Like all issues, however, there was an open source solution! Yay for the Open Source community&#8230;
 
@@ -35,6 +32,3 @@ This is just a tad confusing because if I bought a license to a movie&#8230; and
 
 That&#8217;s all for now.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2008/11/25/movies-ipods-and-evil-apple/&text=Movies%2C+iPods%2C+and+Evil+Apple" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

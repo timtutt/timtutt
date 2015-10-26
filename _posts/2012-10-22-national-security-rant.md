@@ -12,9 +12,6 @@ categories:
   - Politics
   - security
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/10/22/national-security-rant/&text=National+Security+Rant" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 <Begin Political Rant>
 
@@ -51,9 +48,6 @@ Very frustrated right now.
 
 &nbsp;
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/10/22/national-security-rant/&text=National+Security+Rant" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://timesofindia.indiatimes.com/tech/enterprise-it/security/Massive-cyber-attacks-target-Middle-East-oil-companies/articleshow/16911900.cms
  [2]: http://www.cnn.com/2012/10/07/opinion/greene-cyber-real/index.html

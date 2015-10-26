@@ -15,9 +15,6 @@ categories:
   - Software Development
   - Tech Ed
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/08/13/building-better-software/&text=Building+Better+Software" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 I have never been just a Software Developer.  In every job that I have had since I was young and started my own web development business, I have been put in the sales role performing functions from marketing and business development, to sales negotiation and fulfilling contracts. In every sense of the word I have been an entrepreneur. Working as a Software Developer, I never just wanted to write code. I wanted to build effective tools that made business more efficient and to do so I had to understand the business. Perhaps my experiences gave me a bit of an advantage, but it is an advantage that can be learned.
 
@@ -31,8 +28,5 @@ These projects were successful because when I approached the end-users, I took o
 
 It is time to stop building development teams full of only Level 1s who never become domain experts. They have a lot offer to the visionaries who may not be aware of the technical capabilities that exist right there within their own teams.  Additionally, when you have the opportunity to become a domain expert by being surrounded by Level 2s and 3s, you start to write better software. I intentionally surround myself with Level 3s in hopes that one day I will become the visionary type that everyone looks to. In order to build better software, we need to be sure that all levels are tightly integrated and understand the business domains in which they work. Otherwise, the software is being written for the sake of writing software.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/08/13/building-better-software/&text=Building+Better+Software" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://blog.thingsdesigner.com/uploads/id/tree_swing_development_requirements.jpg

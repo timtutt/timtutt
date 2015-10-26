@@ -33,9 +33,6 @@ tags:
   - scaling up
   - schema
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/04/27/nosql-not-the-end-of-rdbms/&text=NoSQL+-+Not+The+End+Of+RDBMS" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 There has been a lot of noise on the web recently in regards to the death of relational database management systems.  This is not the first time there has been such sacrilegious chatter, but it is the first time that developers as a whole are really starting to pay attention to it.  There is good reason for everyone to start paying attention to the NoSQL movement, but it is **not** the end of relational database management systems.  That being said, in this article we are going to take a look at what exactly NoSQL is all about and how it can be beneficial.
 
@@ -69,6 +66,3 @@ All that said &#8211; this is not the end for relational databases. Not even by 
 
 That responsibility is knowing when to use it. &#8220;NoSQL&#8221; databases are not always the answer. Relational databases will more times than not solve the problems you are looking to solve. It happens a little to often that we tend to hop on the bandwagon of technologies just to be early adopters. I don&#8217;t want to see a ton of &#8220;NoSQL&#8221; fanboys out there throwing it at everything they see. Be aware that &#8220;NoSQL&#8221; exists, and that it can potentially be very useful in the right situations.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/04/27/nosql-not-the-end-of-rdbms/&text=NoSQL+-+Not+The+End+Of+RDBMS" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

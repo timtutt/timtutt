@@ -17,9 +17,6 @@ categories:
   - Politics
   - social networking
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2013/07/31/what-you-give-away/&text=What+You+Give+Away" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 *&#8220;&#8230;You also agree that you will not use these products for any purposes prohibited by United States law, including, without limitation, the development, design, manufacture or production of nuclear, missiles, or chemical or biological weapons&#8221;. *
 
@@ -45,9 +42,6 @@ We willing give away data to private corporations who only want our data for a b
 
 In the age of information, we freely give away data without thinking twice about it. Turns out this is also the age of &#8220;big data&#8221; and &#8220;data analysis&#8221; so profiling you and knowing more about you than you ever knew about yourself has become somewhat of a game. A very profitable game at that. So now that you know this, what is going to change? There will be no huge uprising to take back control of our data. There will not be national discussions about privacy and human rights violations. We will continue providing this data willingly, but knowing what is being collected and how it is being used gives us opportunities to forcibly change our own behaviors and limit the amount of data we allow to be collected on us. Food for thought.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2013/07/31/what-you-give-away/&text=What+You+Give+Away" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/
  [2]: http://www.cnn.com/privacy.html

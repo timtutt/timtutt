@@ -20,9 +20,6 @@ tags:
   - scale
   - scaling out
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2011/06/22/1-millisecond-is-too-slow/&text=1+Millisecond+Is+Too+Slow" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 &#8220;640K ought to be enough for anybody&#8221; &#8211; This quote from the 1980s which may or may not be attributed to Bill Gates is quite laughable quote these days. We live in a world where exabytes of data isn&#8217;t even enough to classify the amount of data we will consume as a world in the next five years. For the more non-technical readers out there a exabyte is roughly equivalent to 9&#215;10^15 a kilobyte. To break it down just a little more, that&#8217;s about 10,000 terabytes of information. 
 
@@ -42,6 +39,3 @@ It&#8217;s a tall order coming from a small fish low on the totem pole. There is
 
 It&#8217;s a new age with new rules. Take the advice or leave it, I&#8217;m just a guy that deals with big data on a daily basis.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2011/06/22/1-millisecond-is-too-slow/&text=1+Millisecond+Is+Too+Slow" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

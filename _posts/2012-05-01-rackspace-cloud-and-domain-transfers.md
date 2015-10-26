@@ -15,9 +15,6 @@ categories:
   - Tech Ed
   - Web Development
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/05/01/rackspace-cloud-and-domain-transfers/&text=Rackspace+Cloud+And+Domain+Transfers" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 For starters, I actually had not planned on writing this article&#8230; Sometimes topics just fall into your lap, and you can do nothing else, but move on them. This one is going to be a little more directed than usual as it is inspired by an event that occurred today. For my more technical readers you can skip over the next three paragraphs to get to the meat of this story while explain a few things like DNS to everyone else.
 
@@ -58,6 +55,3 @@ Large organizations focus on implementing best security practices to ensure the 
 
 &nbsp;
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2012/05/01/rackspace-cloud-and-domain-transfers/&text=Rackspace+Cloud+And+Domain+Transfers" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

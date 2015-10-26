@@ -20,9 +20,6 @@ tags:
   - undergraduate
   - undergraduate computer science
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/09/17/engineering-in-computer-science/&text=The+Importance+of+Engineering+in+Undergraduate+Computer+Science+Programs" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 Recently I&#8217;ve been thinking heavily about the Computer Science program at Tech due to a number of changes that are quickly making their way into the curriculum. One of the more interesting decisions for changing the program that the Computer Science Department at Virginia Tech made was moving the Department into the College of Engineering. While the full potential of this move has not yet been realized, it was a move that has tremendous advantages for not only the department and its students, but also the industry and academia on a whole.
 
@@ -48,6 +45,3 @@ Simple changes can be made to Computer Science programs to focus more on the pra
 
 <a name="wise">[1]</a> &#8211; http://www.acm.org/ubiquity/views/b\_curran\_1.html
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/09/17/engineering-in-computer-science/&text=The+Importance+of+Engineering+in+Undergraduate+Computer+Science+Programs" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

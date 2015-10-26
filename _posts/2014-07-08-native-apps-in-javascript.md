@@ -23,9 +23,6 @@ tags:
   - Parse
   - Titanium
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2014/07/08/native-apps-in-javascript/&text=Native+Apps+in+JavaScript" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 Who would have thought that writing a native mobile app entirely in Javascript was possible? I know I was a skeptic initially. Yet &#8211; the first [mobile app][1] I wrote was written **entirely** in Javascript &#8211; and you&#8217;d never know it if I hadn&#8217;t told you. How did I achieve such a feat? Sadly it wasn&#8217;t anything as exciting as black magic. I used two very powerful frameworks to churn out an awesome app: [Appcelerator&#8217;s Titanium][2] and [Facebook&#8217;s Parse][3] Frameworks.
 
@@ -66,9 +63,6 @@ Parse &#8211; has completely won me over. Ease of use. Great documentation and t
 
 Moral of this story: Mobile Apps can be written entirely in JavaScript and still feel native. [Writer&#8217;s Block][1] is proof.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2014/07/08/native-apps-in-javascript/&text=Native+Apps+in+JavaScript" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://www.writersblockappios.com
  [2]: http://www.appcelerator.com/

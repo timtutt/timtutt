@@ -30,9 +30,6 @@ tags:
   - Virginia Tech
   - VT People Search
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/07/12/what-users-dont-know-will-hurt-them/&text=What+Users+Don%27t+Know+Will+Hurt+Them" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 There&#8217;s an old saying, &#8220;ignorance is bliss&#8221;, that I&#8217;d like to add an addendum to today. The quote should be &#8220;Ignorance is bliss, until that ignorance hurts you&#8221;. In the IT world we have the tendency to build systems to the specifications provided by the &#8220;customer&#8221;. I quote customer like that because although there is usually a requirements group that provides the specifications to us, the real customer of the applications that we build are the end-users. (As a complete aside &#8211;  I&#8217;ve never been a fan of requirements groups. They rarely get the customer requirements right, and can never really explain why the end-user &#8220;needs&#8221; something. Another conversation for another day.)
 
@@ -48,6 +45,3 @@ Browsers have done their part in attempting to explain to users what they are do
 
 Whether it be someone using information the user could have hidden for malicious social engineering attacks or a website claiming to be a user&#8217;s bank by providing a self-signed SSL cert, users can and will be attacked when they are unaware of what is possible. The question is how do we protect them from every threat? Productivity would certainly be lost if we explained every system in full detail to every user. That is just not a feasible solution. Perhaps the answer lies in how we present documentation to users. If documentation is hidden underneath layers of pages, then we can expect that users will not find it. Should we make documentation apart of the entire user experience with hints and tip boxes? Would that deter users from using systems? It&#8217;s an interesting question that I do not have the answer to. I do know, however, that as long as users remain ignorant of certain features of the systems they use, they are more likely to be attacked.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/07/12/what-users-dont-know-will-hurt-them/&text=What+Users+Don%27t+Know+Will+Hurt+Them" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

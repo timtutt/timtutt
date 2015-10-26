@@ -14,9 +14,6 @@ tags:
   - music
   - television
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/01/10/drm-and-the-future-of-digital-media-distribution/&text=DRM+and+the+Future+of+Digital+Media+Distribution" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 I have to start off by giving credit for this entry to my co-worker Red (http://www.lifeofred.com). It started off as a discussion of what exactly DRM is, but got me to thinking about a few other things as well &#8211; particularly the future of how media will be distributed.
 
@@ -60,8 +57,5 @@ If the media industries would stop being greedy, they would see that you don&#82
 
 That&#8217;s my rant. Maybe someone will actually pay attention to how we do these things and fix it for the better&#8230; Or sooner or later, the media industries won&#8217;t be making any money at all.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2009/01/10/drm-and-the-future-of-digital-media-distribution/&text=DRM+and+the+Future+of+Digital+Media+Distribution" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://www.wdc.com/en/products/products.asp?driveid=572

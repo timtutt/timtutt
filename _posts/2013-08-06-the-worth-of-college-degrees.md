@@ -12,9 +12,6 @@ categories:
   - higher education
   - Tech Ed
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2013/08/06/the-worth-of-college-degrees/&text=The+Worth+of+College+Degrees" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 About 3 or 4 years ago I found myself in a Barnes & Noble (an **actual** store for books for you young ones) looking for a programming book of sorts.  I was pretty disappointed in the selection and vocalized this not realizing there was someone standing nearby.  The older gentleman, overhearing me, decides to spark up a conversation with me about education (this seems to happen to me often).  During the course of this discussion, this anonymous man makes one comment to me that has stuck with me for years &#8211; &#8220;Degrees only matter for a point in time.&#8221;
 
@@ -30,9 +27,6 @@ The fact is, education actually extends beyond the classroom, and many students 
 
 Websites like [Coursera][5] and services like [iTunesU][6] providing top notch education from major Universities are making higher education much more accessible to individuals who have an interest and drive, and are making college degrees less necessary.  Society today still puts a heavy emphasis on college degrees, but we are starting to see a shift from that model to something different.  It is not an entirely new paradigm.  We are all required, in the professional world, to stay current on the changing times, laws, and technologies long after receiving that piece of paper that seems to define us; however, it seems society may finally be starting to put *less* emphasis on college degrees.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2013/08/06/the-worth-of-college-degrees/&text=The+Worth+of+College+Degrees" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://ideas.time.com/2011/10/21/the-myth-of-the-millionaire-college-dropout/#ixzz2alRfrPoL
  [2]: http://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/12/grads-earn-85-more-than-those-without.html?page=all

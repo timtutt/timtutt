@@ -28,9 +28,6 @@ tags:
   - social networking
   - twitter
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/04/27/are-we-witnessing-the-death-of-privacy/&text=Are+We+Witnessing+The+Death+Of+Privacy%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 While the death of privacy may seem like a far-fetched concept, particularly in the United States, it really is an idea that we should be paying attention to.  To be perfectly honest, it was an idea that even I dismissed just a few months ago, but it has slowly been beginning to scare me a little more as I pay more attention to the generational differences.
 
@@ -78,6 +75,3 @@ I would like to think that at some point, people will begin to realize how much 
 
 By all accounts, privacy does seem to be slowly dying. I hope &#8211; for all our sakes &#8211; that there is some major awakening that reminds people why privacy has existed in the past. Why it is not always best to share everything about your life with the world. I am not saying we need to &#8220;fight the power&#8221; and destroy Facebook, Google, Twitter and the like. They are all great tools &#8211; but only when used in safe manners. If privacy dies, we&#8217;re welcoming a world of chaos with open arms.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/04/27/are-we-witnessing-the-death-of-privacy/&text=Are+We+Witnessing+The+Death+Of+Privacy%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>

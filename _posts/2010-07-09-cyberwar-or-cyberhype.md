@@ -26,9 +26,6 @@ tags:
   - security
   - U.S government
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/07/09/cyberwar-or-cyberhype/&text=Cyberwar+or+Cyberhype%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 Over the past week, the blog-sphere of the computer security world has been ambushed with some serious discussions about whether all of the talk going in the nation about the threat cyberwar is nothing more than hype. Some would argue it is being used as a scare tactic to push political and agency agendas, while others would argue that it is a valid and prevalent issue. In the world of information technology, this is often times an issue &#8211; important concepts, ideas, or issues are over-hyped and then dismissed. In some cases dismissing technology hype completely is valid (see [NoSQL][1]), while in others it could be very dangerous.
 
@@ -56,9 +53,6 @@ Attacks on classified networks, whether these be denial-of-service attacks or at
 
 I feel it is hard to argue, knowing that our networks are being attacked on a regular basis (regardless of where the attacks are originating from), that there is not a cyberwar going on. It is imperative that we defend our networks, and imperative that we understand the consequences of failure. This is not to say I fully agree with the media and politicians who exaggerate the actual threat. There is no question of whether or not the threat has been exaggerated, but that does not mean we should entirely dismiss the threat or that a cyberwar does in fact exist.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2010/07/09/cyberwar-or-cyberhype/&text=Cyberwar+or+Cyberhype%3F" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
  [1]: http://www.timtutt.com/?p=82
  [2]: http://taosecurity.blogspot.com/2010/07/little-more-on-cyberwar-from-joint-pub.html "A Little More On Cyberwar"

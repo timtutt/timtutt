@@ -20,9 +20,6 @@ tags:
   - software development
   - software engineering
 ---
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2011/06/22/why-agile-isnt-so-agile/&text=Why+Agile+Isn%27t+So+Agile" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
 
 Project managers are process driven people. In fact, without the processes they put in place, project managers would be out of jobs. When it comes to software development, these guys make sure developers stay on track and don&#8217;t run down paths that have nothing to do with customer requirements. Sadly, developers are known for this. Something about personalities&#8230; I still don&#8217;t get that one. If more developers learned how to understand and speak to customers, project managers would be obsolete&#8230;
 
@@ -44,6 +41,3 @@ The new and emerging trend is the concept of a &#8220;Dev-Ops&#8221; team. &#822
 
 Process is important and the Agile Software Development Methodology is not all bad, but looking at it from the customer perspective it could be more &#8220;agile&#8221;. I&#8217;m in favor of these dev-ops teams, mostly because in my experience they seem to work more effectively for the customer, and if you ask me, how the customer feels is better than any process that makes an IT organization look good.
 
-<div class="twttr_button">
-  <a href="http://twitter.com/share?url=http://www.timtutt.com/2011/06/22/why-agile-isnt-so-agile/&text=Why+Agile+Isn%27t+So+Agile" target="_blank" title="Click here if you like this article."> <img src="http://www.timtutt.com/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" /> </a>
-</div>
